@@ -37,8 +37,11 @@ namespace AulaMultiJanelas
             }
 
             FrmNovaJanela frm = new FrmNovaJanela();
-            frm.StartPosition = FormStartPosition.CenterParent;
-            frm.Show(this);
+            frm.FormClosed += FrmNovaJanela_FormClosed;
+            frm.MdiParent = this;
+            frm.WindowState = FormWindowState.Maximized;
+            ToggleCadastroVisibilidade(false);
+            frm.Show();
         }
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
@@ -156,6 +159,27 @@ namespace AulaMultiJanelas
             txtIdade.Text = jogador.Idade.ToString();
             txtModalidade.Text = jogador.Modalidade;
             txtClube.Text = jogador.Clube;
+        }
+
+        private void FrmNovaJanela_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            ToggleCadastroVisibilidade(true);
+        }
+
+        private void ToggleCadastroVisibilidade(bool visivel)
+        {
+            txtNome.Visible = visivel;
+            txtIdade.Visible = visivel;
+            txtModalidade.Visible = visivel;
+            txtNumeroInscricao.Visible = visivel;
+            txtClube.Visible = visivel;
+            label1.Visible = visivel;
+            label2.Visible = visivel;
+            label3.Visible = visivel;
+            label4.Visible = visivel;
+            label5.Visible = visivel;
+            btnSalvar.Visible = visivel;
+            btnExcluir.Visible = visivel;
         }
 
         private static string ObterCaminhoArquivo()
