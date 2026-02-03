@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2° Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\AulaMultiJanelas.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\AulaMultiJanelas\\AulaMultiJanelas\\AulaMultiJanelas.csproj",
       "projectName": "AulaMultiJanelas",
-      "projectPath": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2° Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\AulaMultiJanelas.csproj",
+      "projectPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\AulaMultiJanelas\\AulaMultiJanelas\\AulaMultiJanelas.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2° Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\AulaMultiJanelas\\AulaMultiJanelas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

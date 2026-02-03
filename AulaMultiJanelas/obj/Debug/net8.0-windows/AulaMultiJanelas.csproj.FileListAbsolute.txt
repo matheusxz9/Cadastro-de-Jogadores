@@ -32,3 +32,21 @@ C:\Users\mathe\OneDrive - IFRN\workspace\VS 2022\Programas 2° Semestre\AulaMult
 C:\Users\mathe\OneDrive - IFRN\workspace\VS 2022\Programas 2° Semestre\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.pdb
 C:\Users\mathe\OneDrive - IFRN\workspace\VS 2022\Programas 2° Semestre\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.genruntimeconfig.cache
 C:\Users\mathe\OneDrive - IFRN\workspace\VS 2022\Programas 2° Semestre\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\ref\AulaMultiJanelas.dll
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\bin\Debug\net8.0-windows\AulaMultiJanelas.exe
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\bin\Debug\net8.0-windows\AulaMultiJanelas.deps.json
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\bin\Debug\net8.0-windows\AulaMultiJanelas.runtimeconfig.json
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\bin\Debug\net8.0-windows\AulaMultiJanelas.dll
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\bin\Debug\net8.0-windows\AulaMultiJanelas.pdb
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.Form1.resources
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.FrmNovaJanela.resources
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.AssemblyInfo.cs
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.sourcelink.json
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.dll
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\refint\AulaMultiJanelas.dll
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.pdb
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\AulaMultiJanelas.genruntimeconfig.cache
+C:\Users\mathe\Documents\Visual Studio 2022\AulaMultiJanelas\AulaMultiJanelas\obj\Debug\net8.0-windows\ref\AulaMultiJanelas.dll
