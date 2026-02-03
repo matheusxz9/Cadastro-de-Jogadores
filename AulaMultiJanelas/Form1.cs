@@ -21,22 +21,27 @@ namespace AulaMultiJanelas
 
         private void novaJanelaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (Application.OpenForms.OfType<FrmNovaJanela>().Count() > 0)
+            FrmNovaJanela janelaExistente = Application.OpenForms
+                .OfType<FrmNovaJanela>()
+                .FirstOrDefault();
+            if (janelaExistente != null)
             {
-                MessageBox.Show("A janela de listagem já está aberta.");
-            }
-            else
-            {
-                foreach (Form form in this.MdiChildren)
+                if (janelaExistente.WindowState == FormWindowState.Minimized)
                 {
-                    form.Close();
+                    janelaExistente.WindowState = FormWindowState.Normal;
                 }
 
-                FrmNovaJanela frm = new FrmNovaJanela();
-                frm.MdiParent = this;
-                frm.Show();
+                janelaExistente.BringToFront();
+                janelaExistente.Activate();
                 return;
             }
+
+            FrmNovaJanela frm = new FrmNovaJanela();
+            frm.FormClosed += FrmNovaJanela_FormClosed;
+            frm.MdiParent = this;
+            frm.WindowState = FormWindowState.Maximized;
+            ToggleCadastroVisibilidade(false);
+            frm.Show();
         }
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
@@ -154,6 +159,27 @@ namespace AulaMultiJanelas
             txtIdade.Text = jogador.Idade.ToString();
             txtModalidade.Text = jogador.Modalidade;
             txtClube.Text = jogador.Clube;
+        }
+
+        private void FrmNovaJanela_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            ToggleCadastroVisibilidade(true);
+        }
+
+        private void ToggleCadastroVisibilidade(bool visivel)
+        {
+            txtNome.Visible = visivel;
+            txtIdade.Visible = visivel;
+            txtModalidade.Visible = visivel;
+            txtNumeroInscricao.Visible = visivel;
+            txtClube.Visible = visivel;
+            label1.Visible = visivel;
+            label2.Visible = visivel;
+            label3.Visible = visivel;
+            label4.Visible = visivel;
+            label5.Visible = visivel;
+            btnSalvar.Visible = visivel;
+            btnExcluir.Visible = visivel;
         }
 
         private static string ObterCaminhoArquivo()
