@@ -21,22 +21,17 @@ namespace AulaMultiJanelas
 
         private void novaJanelaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (Application.OpenForms.OfType<FrmNovaJanela>().Count() > 0)
+            FrmNovaJanela janelaExistente = Application.OpenForms
+                .OfType<FrmNovaJanela>()
+                .FirstOrDefault();
+            if (janelaExistente != null)
             {
-                MessageBox.Show("A janela de listagem já está aberta.");
-            }
-            else
-            {
-                foreach (Form form in this.MdiChildren)
-                {
-                    form.Close();
-                }
-
-                FrmNovaJanela frm = new FrmNovaJanela();
-                frm.MdiParent = this;
-                frm.Show();
+                janelaExistente.Activate();
                 return;
             }
+
+            FrmNovaJanela frm = new FrmNovaJanela();
+            frm.Show();
         }
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
