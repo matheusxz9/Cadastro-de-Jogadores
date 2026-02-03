@@ -92,15 +92,12 @@ namespace AulaMultiJanelas
             Jogadores existente = jogadores.FirstOrDefault(j => j.NumeroInscricao == objJogador.NumeroInscricao);
             if (existente != null)
             {
-                existente.Nome = objJogador.Nome;
-                existente.Idade = objJogador.Idade;
-                existente.Modalidade = objJogador.Modalidade;
-                existente.Clube = objJogador.Clube;
+                MessageBox.Show("Número de inscrição já cadastrado. Use outro número de inscrição.");
+                txtNumeroInscricao.Focus();
+                return;
             }
-            else
-            {
-                jogadores.Add(objJogador);
-            }
+
+            jogadores.Add(objJogador);
 
             SalvarJogadores(jogadores);
 
