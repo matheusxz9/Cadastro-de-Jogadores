@@ -7,18 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Serialization;
+using System.IO;
 
 namespace AulaMultiJanelas
 {
     public partial class FrmNovaJanela : Form
     {
-        BindingList<Jogadores> jogadores = new BindingList<Jogadores>
-        {
-            new() { Nome = "Carlos", Idade = 25, Modalidade = "Futebol", NumeroInscricao = "12345", Clube = "ABC" },
-            new() { Nome = "Ana", Idade = 22, Modalidade = "Vôlei", NumeroInscricao = "67890", Clube = "Cruzeiro" },
-            new() { Nome = "Marcos", Idade = 28, Modalidade = "Natação", NumeroInscricao = "54321", Clube = "Sharknado" },
-            new() { Nome = "Beatriz", Idade = 24, Modalidade = "Basquete", NumeroInscricao = "98765", Clube = "Lakers" }
-        };
+        private readonly BindingList<Jogadores> jogadores = new BindingList<Jogadores>();
         public FrmNovaJanela()
         {
             InitializeComponent();
@@ -28,6 +24,37 @@ namespace AulaMultiJanelas
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        protected override void OnShown(EventArgs e)
+        {
+            base.OnShown(e);
+            CarregarJogadores();
+        }
+
+        private void CarregarJogadores()
+        {
+            jogadores.Clear();
+
+            string arquivo = ObterCaminhoArquivo();
+            if (!File.Exists(arquivo))
+            {
+                return;
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Jogadores>));
+            using FileStream arquivoXml = File.OpenRead(arquivo);
+            List<Jogadores> lista = (List<Jogadores>)serializer.Deserialize(arquivoXml);
+            foreach (Jogadores jogador in lista)
+            {
+                jogadores.Add(jogador);
+            }
+        }
+
+        private static string ObterCaminhoArquivo()
+        {
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            return Path.Combine(path, "jogadores.xml");
         }
     }
 }
