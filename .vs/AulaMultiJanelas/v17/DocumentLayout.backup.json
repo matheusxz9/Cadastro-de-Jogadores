@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\jogadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\jogadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\cadastro-de-jogadores\\aulamultijanelas\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.Designer.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:41:24.464Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogadores.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Jogadores.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Jogadores.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Jogadores.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Jogadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:21:51.048Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Program.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Program.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:27:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listagem.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Listagem.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Listagem.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Listagem.cs [Projeto]*",
+              "RelativeToolTip": "AulaMultiJanelas\\Listagem.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:25:11.344Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "AulaMultiJanelas\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:27:34.408Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Form1.cs*",
+              "RelativeToolTip": "AulaMultiJanelas\\Form1.cs*",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwK4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:26:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Listagem.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Listagem.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Listagem.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Cadastro-de-Jogadores\\AulaMultiJanelas\\Listagem.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Listagem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:18:38.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
