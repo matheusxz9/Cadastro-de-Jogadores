@@ -26,12 +26,19 @@ namespace AulaMultiJanelas
                 .FirstOrDefault();
             if (janelaExistente != null)
             {
+                if (janelaExistente.WindowState == FormWindowState.Minimized)
+                {
+                    janelaExistente.WindowState = FormWindowState.Normal;
+                }
+
+                janelaExistente.BringToFront();
                 janelaExistente.Activate();
                 return;
             }
 
             FrmNovaJanela frm = new FrmNovaJanela();
-            frm.Show();
+            frm.StartPosition = FormStartPosition.CenterParent;
+            frm.Show(this);
         }
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
