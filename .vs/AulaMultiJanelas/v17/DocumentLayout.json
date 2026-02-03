@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\onedrive - ifrn\\workspace\\vs 2022\\programas 2\u00B0 semestre\\aulamultijanelas\\aulamultijanelas\\frmnovajanela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\frmnovajanela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\onedrive - ifrn\\workspace\\vs 2022\\programas 2\u00B0 semestre\\aulamultijanelas\\aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\onedrive - ifrn\\workspace\\vs 2022\\programas 2\u00B0 semestre\\aulamultijanelas\\aulamultijanelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\aulamultijanelas\\frmnovajanela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\frmnovajanela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\onedrive - ifrn\\workspace\\vs 2022\\programas 2\u00B0 semestre\\aulamultijanelas\\aulamultijanelas\\jogadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\jogadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|c:\\users\\mathe\\onedrive - ifrn\\workspace\\vs 2022\\programas 2\u00B0 semestre\\aulamultijanelas\\aulamultijanelas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1391D0C-7E8F-4A13-8531-63A459D86DC7}|AulaMultiJanelas\\AulaMultiJanelas.csproj|solutionrelative:aulamultijanelas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.Designer.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:41:24.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jogadores.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Jogadores.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Jogadores.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Jogadores.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Jogadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:21:51.048Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmNovaJanela.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\FrmNovaJanela.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\FrmNovaJanela.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\FrmNovaJanela.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\FrmNovaJanela.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:18:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.cs",
+              "ToolTip": "C:\\Users\\20251038060021\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\20251038060021\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:27:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Form1.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Form1.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:26:13.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Program.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\Program.cs",
+              "RelativeToolTip": "AulaMultiJanelas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:27:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmNovaJanela.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\FrmNovaJanela.cs",
+              "RelativeDocumentMoniker": "AulaMultiJanelas\\FrmNovaJanela.cs",
+              "ToolTip": "C:\\Users\\20251038060021\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\FrmNovaJanela.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\20251038060021\\OneDrive - IFRN\\workspace\\VS 2022\\Programas 2\u00B0 Semestre\\AulaMultiJanelas\\AulaMultiJanelas\\FrmNovaJanela.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:25:11.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
